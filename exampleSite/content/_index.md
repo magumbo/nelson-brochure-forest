@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  title: "Any property can be a hotel, anyone can be a hotelier"
+  button: "Book A Demo"
+  button_link: "contact/"
   image: "images/banner-app.png"
 
 
@@ -27,27 +27,27 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Nelson Features"
+  title: "Automations to<br> ease your workflow"
+  description: "Why perform the same manual tasks when Nelson can do it for you? <br> Spend less time on boring stuff and more time on your passion"
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Smart Locking"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Simple Booking Engine"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
+    title: "Maintenance Handled"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
+    title: "Full OTA Integration"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Help Desk"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Mobile App"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
 
 
@@ -55,9 +55,9 @@ features:
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  title: "See Nelson In Action"
+  description: "Nelson transformed this Finnish hotel over night"
+  video_url: "https://www.youtube.com/embed/-sy92Vul1Sw"
   video_thumbnail: "images/video-popup.jpg"
 
 
@@ -65,13 +65,13 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
+  - subtitle: "Nelson UI"
+    title: "Complete Guest Management"
     description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
+  - subtitle: "Nelson UI"
+    title: "Inventory Easily"
     description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
     image: "images/features-02.png"
 

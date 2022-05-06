@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/andromeda-light/examplesite/"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Nelson - Operating System For A New Breed Of Hotels"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
