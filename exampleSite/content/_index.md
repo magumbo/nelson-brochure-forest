@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Any property can be a hotel, anyone can be a hotelier
+  title: You can be a hotelier
   button: Book A Demo
   button_link: contact/
   image: images/banner-app.png
