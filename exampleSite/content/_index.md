@@ -52,7 +52,7 @@ features:
 intro_video:
   enable: true
   subtitle: Short Intro Video
-  title: See Nelson In Action
+  title: See Nelson In Action NOW
   description: Nelson transformed this Finnish hotel over night
   video_url: https://www.youtube.com/embed/-sy92Vul1Sw
   video_thumbnail: images/video-popup.jpg
