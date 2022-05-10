@@ -1,6 +1,6 @@
 ---
 banner:
-  title: You can be a hotelier
+  title: You CANNOT be a hotelier
   button: Book A Demo
   button_link: contact/
   image: images/banner-app.png
